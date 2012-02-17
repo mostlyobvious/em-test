@@ -1,7 +1,4 @@
-require 'test/unit'
-require 'eventmachine'
-require 'fiber'
-require 'em-test'
+require 'test_helper'
 
 class NormalTest < Test::Unit::TestCase
   def test_trivial
