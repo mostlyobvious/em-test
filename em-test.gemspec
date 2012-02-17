@@ -4,7 +4,7 @@ require "em-test/version"
 
 Gem::Specification.new do |s|
   s.name        = "em-test"
-  s.version     = Em::Test::VERSION
+  s.version     = EventMachine::Test::VERSION
   s.authors     = ["Paweł Pacana"]
   s.email       = ["pawel.pacana@gmail.com"]
   s.homepage    = ""
